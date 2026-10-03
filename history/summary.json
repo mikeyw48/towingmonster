@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "test",
-    "url": "https://example.invalid",
-    "icon": "https://icons.duckduckgo.com/ip3/example.invalid.ico",
-    "slug": "test",
-    "status": "down",
-    "uptime": "72.29%",
-    "uptimeDay": "72.29%",
-    "uptimeWeek": "72.29%",
-    "uptimeMonth": "72.29%",
-    "uptimeYear": "72.29%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-10-03": 0
-    }
   }
 ]
