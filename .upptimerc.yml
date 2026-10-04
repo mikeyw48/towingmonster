@@ -5,6 +5,12 @@ repo: towingmonster # The name of this repository
 sites:
   - name: TowingMonster
     url: https://towingmonster.com
+  - name: Email Simulator
+    url: https://simulate.email
+  - name: MW Portfolio
+    url: https://michalwyciszkiewicz.com
+  - name: QRFreeBee
+    url: https://qrfreebee.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
