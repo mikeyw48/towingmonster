@@ -22,19 +22,19 @@
     "url": "https://simulate.email",
     "icon": "https://icons.duckduckgo.com/ip3/simulate.email.ico",
     "slug": "email-simulator",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1076,
-    "timeDay": 492,
-    "timeWeek": 1255,
-    "timeMonth": 1076,
-    "timeYear": 1076,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 1018,
+    "timeDay": 378,
+    "timeWeek": 1131,
+    "timeMonth": 1018,
+    "timeYear": 1018,
     "dailyMinutesDown": {
-      "2026-10-15": 10
+      "2026-10-15": 101
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://michalwyciszkiewicz.com",
     "icon": "https://icons.duckduckgo.com/ip3/michalwyciszkiewicz.com.ico",
     "slug": "mw-portfolio",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 374,
-    "timeDay": 288,
-    "timeWeek": 386,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 357,
+    "timeDay": 209,
+    "timeWeek": 354,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2026-10-15": 5
+      "2026-10-15": 96
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://qrfreebee.com",
     "icon": "https://icons.duckduckgo.com/ip3/qrfreebee.com.ico",
     "slug": "qr-free-bee",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 351,
-    "timeWeek": 456,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 357,
+    "timeDay": 243,
+    "timeWeek": 416,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2026-10-15": 0
+      "2026-10-15": 91
     }
   }
 ]
