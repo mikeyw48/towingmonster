@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/towingmonster.com.ico",
     "slug": "towing-monster",
     "status": "up",
-    "uptime": "92.11%",
+    "uptime": "92.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "80.52%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "92.11%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "92.52%",
     "time": 1908,
     "timeDay": 685,
     "timeWeek": 4865,
@@ -25,12 +25,12 @@
     "url": "https://simulate.email",
     "icon": "https://icons.duckduckgo.com/ip3/simulate.email.ico",
     "slug": "email-simulator",
-    "status": "up",
-    "uptime": "85.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "65.05%",
-    "uptimeMonth": "85.65%",
-    "uptimeYear": "85.65%",
+    "status": "down",
+    "uptime": "86.36%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "64.95%",
+    "uptimeMonth": "86.36%",
+    "uptimeYear": "86.36%",
     "time": 1094,
     "timeDay": 1147,
     "timeWeek": 1049,
@@ -41,7 +41,8 @@
       "2026-10-18": 1349,
       "2026-10-17": 1440,
       "2026-10-16": 185,
-      "2026-10-19": 447
+      "2026-10-19": 447,
+      "2026-10-22": 10
     }
   },
   {
@@ -49,12 +50,12 @@
     "url": "https://michalwyciszkiewicz.com",
     "icon": "https://icons.duckduckgo.com/ip3/michalwyciszkiewicz.com.ico",
     "slug": "mw-portfolio",
-    "status": "up",
-    "uptime": "89.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "75.21%",
-    "uptimeMonth": "89.82%",
-    "uptimeYear": "89.82%",
+    "status": "down",
+    "uptime": "90.33%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "75.16%",
+    "uptimeMonth": "90.33%",
+    "uptimeYear": "90.33%",
     "time": 368,
     "timeDay": 504,
     "timeWeek": 351,
@@ -64,7 +65,8 @@
       "2026-10-15": 96,
       "2026-10-18": 1354,
       "2026-10-17": 607,
-      "2026-10-19": 442
+      "2026-10-19": 442,
+      "2026-10-22": 5
     }
   },
   {
@@ -72,12 +74,12 @@
     "url": "https://qrfreebee.com",
     "icon": "https://icons.duckduckgo.com/ip3/qrfreebee.com.ico",
     "slug": "qr-free-bee",
-    "status": "up",
-    "uptime": "85.73%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "86.48%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "65.25%",
-    "uptimeMonth": "85.73%",
-    "uptimeYear": "85.73%",
+    "uptimeMonth": "86.48%",
+    "uptimeYear": "86.48%",
     "time": 350,
     "timeDay": 442,
     "timeWeek": 310,
@@ -88,7 +90,8 @@
       "2026-10-18": 1349,
       "2026-10-17": 1440,
       "2026-10-16": 185,
-      "2026-10-19": 438
+      "2026-10-19": 438,
+      "2026-10-22": 0
     }
   }
 ]
